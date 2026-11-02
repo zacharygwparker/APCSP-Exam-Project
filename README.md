@@ -12,3 +12,6 @@ This is a small playable game with one level, the objective is to get to the bri
 # Controls
 A/D - Move left and right \
 W - Jump
+---
+![Screenshot](screenshot.png)\
+*In-game screenshot*
